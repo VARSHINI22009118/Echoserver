@@ -55,10 +55,11 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### echo-server.py:
-![image](https://github.com/VARSHINI22009118/Echoserver/assets/119401150/1cfbf389-38ec-46f9-8978-715c2475e6f2)
+![image](https://github.com/VARSHINI22009118/Echoserver/assets/119401150/b6fb423e-9155-43e5-bc1c-0318406ee3ef)
 
 ### echo-client.py
-![image](https://github.com/VARSHINI22009118/Echoserver/assets/119401150/e8f01a07-c716-414f-a5c3-452ddbe3b959)
+![image](https://github.com/VARSHINI22009118/Echoserver/assets/119401150/eee189ca-b7c4-4dbf-83cc-0b49a935803c)
+
 
 
 ## RESULT:
